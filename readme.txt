@@ -5,3 +5,4 @@ this is a simple dog
 this is a cat
 this is a pig
 this is a cow
+this is a lion
