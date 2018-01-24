@@ -7,4 +7,5 @@ this is a pig
 this is a cow
 this is a lion
 this is a snake
+this is a duck
 
