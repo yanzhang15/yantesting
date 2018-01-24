@@ -12,3 +12,6 @@ this is a dog
 this is a rabbit
 this is a tiger
 this is a deer
+this is a mouse
+this is an ant
+
