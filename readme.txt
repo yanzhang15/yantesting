@@ -10,4 +10,5 @@ this is a snake
 this is a duck
 this is a dog
 this is a rabbit
+this is a tiger
 
